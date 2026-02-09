@@ -3,9 +3,7 @@ Ragnarok X Mobile - Auto Fishing
 This project using python with pyautogui
 
 Requirement
-- pip install pyautogui
-- pip install Pillow
-- pip install opencv-python
+- pip install -r requirements.txt
 
 Support OS
 - Windows
